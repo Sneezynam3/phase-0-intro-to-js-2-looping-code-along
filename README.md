@@ -386,7 +386,7 @@ are able to discern the nuanced differences in usage between them.
 
 - Codecademy
   - [`for` loop](http://www.codecademy.com/glossary/javascript/loops#for-loops)
-  - [`while` loop](http://www.codecademy.com/glossary/javascript/loops#while-loops)
+  - [`while` loop](http://www.cofunctiondecademy.com/glossary/javascript/loops#while-loops)
 - MDN
   - [`for` loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
   - [`while` loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
